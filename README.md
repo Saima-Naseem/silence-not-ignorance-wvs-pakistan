@@ -39,6 +39,15 @@ Run all commands from this folder. R scripts expect the working directory to be 
 ## Main results
 Women give about 1.8 times as many "don't know" answers as men on domestic political questions (with controls), but not on non-political questions. Political awareness does not explain the gap, which is concentrated on judgements about electoral integrity, corruption and surveillance. Key models were re-estimated in R with identical coefficients.
 
+## Citation
+
+If you use these materials, please cite the article above. Citation metadata are in `CITATION.cff`.
+
+## Contact
+
+Saima Naseem, reach@saimanaseem.com
+
+
 ## Table numbering in the paper
 Table 1 sample characteristics; Table 2 "don't know" by item set; Table 3 negative binomial models (M0–M3 and M4 town fixed effects); Table 4 multilevel placebo models. Online Appendix Tables A1–A17.
 
