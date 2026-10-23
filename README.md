@@ -45,7 +45,7 @@ If you use these materials, please cite the article above. Citation metadata are
 
 ## Contact
 
-Saima Naseem, reach@saimanaseem.com
+Saima Naseem, saimanaseemhere@gmail.com
 
 
 ## Table numbering in the paper
