@@ -1,0 +1,16 @@
+# WVS data must not be redistributed (WVS terms of use)
+data/
+*.xlsx
+*.sav
+*.dta
+!paper/*.docx
+
+# Python and system files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.DS_Store
+Thumbs.db
+~$*
